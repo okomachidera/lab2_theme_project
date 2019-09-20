@@ -1,4 +1,4 @@
-# plainwhite
+# Chidera's Lab 2
 
 Simplistic jekyll portfolio-style theme for writers.
 
